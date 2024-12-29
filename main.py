@@ -1,4 +1,3 @@
-import local_tuya as lt
 import tinytuya as tt
 import time
 
