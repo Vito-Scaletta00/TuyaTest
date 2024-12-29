@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afe82bfb-d606-46c4-84a2-a8f288971a01" name="Changes" comment="">
+    <list default="true" id="afe82bfb-d606-46c4-84a2-a8f288971a01" name="Changes" comment="Created, figuring out why turn_off/on isn't working">
       <change afterPath="$PROJECT_DIR$/.idea/TuyaTest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -53,6 +53,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735453427035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created, figuring out why turn_off/on isn't working">
+      <option name="closed" value="true" />
+      <created>1735459037482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735459037482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created, figuring out why turn_off/on isn't working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created, figuring out why turn_off/on isn't working" />
   </component>
 </project>
