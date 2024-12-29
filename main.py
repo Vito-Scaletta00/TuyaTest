@@ -19,7 +19,7 @@ except Exception as e:
     print(f"Error fetching initial status: {e}")
 
 
-
+print(test)
 
 
 
